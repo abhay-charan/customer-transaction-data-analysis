@@ -10,9 +10,9 @@ Python, Pandas & Numpy, Data Cleaning and Visualization
 Identified high-value customers, Analyzed transaction patterns, Observed spending trends across categories.
 
 ##Files Included : 
-Dataset & Cleaned datasets (CSV files)
-Analysis file (Python)
-Visualization outputs
+Dataset & Cleaned datasets (CSV files), 
+Analysis file (Python), 
+Visualization outputs and
 Final Project Report
 
 ##Conclusion : 
